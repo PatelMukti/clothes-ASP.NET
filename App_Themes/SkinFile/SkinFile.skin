@@ -1,0 +1,2 @@
+﻿<asp:Label runat="server" Text="Name:" ForeColor="#FFFFCC" 
+            Font-Bold="True" Font-Names="Arial" Font-Size="X-Large" skinId="labelex"></asp:Label>
